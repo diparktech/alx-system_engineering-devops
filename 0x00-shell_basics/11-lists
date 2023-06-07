@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# 0x00-shell_basics
+echo "0x00-shell_basics:"
+ls -lA .
+
+# alx-system_engineering-devops
+echo "alx-system_engineering-devops:"
+ls -lA ..
+
+# /root
+echo "root:"
+ls -lA /boot
